@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="suibian"
+  id="myeclipse.1494232136845"
+  context-root="/suibian"
+  j2ee-spec="5.0"
+  archive="suibian.war">
+  <attributes>
+    <attribute name="webrootdir" value="src/main/webapp" />
+  </attributes>
+</project-module>
+
